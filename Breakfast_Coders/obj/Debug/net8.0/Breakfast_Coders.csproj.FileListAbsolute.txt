@@ -1,0 +1,4 @@
+/home/faragon/Desktop/C-Sharp/Breakfast_Coders/obj/Debug/net8.0/Breakfast_Coders.GeneratedMSBuildEditorConfig.editorconfig
+/home/faragon/Desktop/C-Sharp/Breakfast_Coders/obj/Debug/net8.0/Breakfast_Coders.AssemblyInfoInputs.cache
+/home/faragon/Desktop/C-Sharp/Breakfast_Coders/obj/Debug/net8.0/Breakfast_Coders.AssemblyInfo.cs
+/home/faragon/Desktop/C-Sharp/Breakfast_Coders/obj/Debug/net8.0/Breakfast_Coders.csproj.CoreCompileInputs.cache

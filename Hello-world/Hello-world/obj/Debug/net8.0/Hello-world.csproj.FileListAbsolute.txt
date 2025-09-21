@@ -1,0 +1,14 @@
+/home/faragon/Desktop/C#/Hello-world/Hello-world/bin/Debug/net8.0/Hello-world
+/home/faragon/Desktop/C#/Hello-world/Hello-world/bin/Debug/net8.0/Hello-world.deps.json
+/home/faragon/Desktop/C#/Hello-world/Hello-world/bin/Debug/net8.0/Hello-world.runtimeconfig.json
+/home/faragon/Desktop/C#/Hello-world/Hello-world/bin/Debug/net8.0/Hello-world.dll
+/home/faragon/Desktop/C#/Hello-world/Hello-world/bin/Debug/net8.0/Hello-world.pdb
+/home/faragon/Desktop/C#/Hello-world/Hello-world/obj/Debug/net8.0/Hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/home/faragon/Desktop/C#/Hello-world/Hello-world/obj/Debug/net8.0/Hello-world.AssemblyInfoInputs.cache
+/home/faragon/Desktop/C#/Hello-world/Hello-world/obj/Debug/net8.0/Hello-world.AssemblyInfo.cs
+/home/faragon/Desktop/C#/Hello-world/Hello-world/obj/Debug/net8.0/Hello-world.csproj.CoreCompileInputs.cache
+/home/faragon/Desktop/C#/Hello-world/Hello-world/obj/Debug/net8.0/Hello-world.dll
+/home/faragon/Desktop/C#/Hello-world/Hello-world/obj/Debug/net8.0/refint/Hello-world.dll
+/home/faragon/Desktop/C#/Hello-world/Hello-world/obj/Debug/net8.0/Hello-world.pdb
+/home/faragon/Desktop/C#/Hello-world/Hello-world/obj/Debug/net8.0/Hello-world.genruntimeconfig.cache
+/home/faragon/Desktop/C#/Hello-world/Hello-world/obj/Debug/net8.0/ref/Hello-world.dll

@@ -1,0 +1,14 @@
+/home/faragon/Desktop/Repos/Objets-Models/obj/Debug/net8.0/Objets-Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/faragon/Desktop/Repos/Objets-Models/obj/Debug/net8.0/Objets-Models.AssemblyInfoInputs.cache
+/home/faragon/Desktop/Repos/Objets-Models/obj/Debug/net8.0/Objets-Models.AssemblyInfo.cs
+/home/faragon/Desktop/Repos/Objets-Models/obj/Debug/net8.0/Objets-Models.csproj.CoreCompileInputs.cache
+/home/faragon/Desktop/Repos/Objets-Models/bin/Debug/net8.0/Objets-Models
+/home/faragon/Desktop/Repos/Objets-Models/bin/Debug/net8.0/Objets-Models.deps.json
+/home/faragon/Desktop/Repos/Objets-Models/bin/Debug/net8.0/Objets-Models.runtimeconfig.json
+/home/faragon/Desktop/Repos/Objets-Models/bin/Debug/net8.0/Objets-Models.dll
+/home/faragon/Desktop/Repos/Objets-Models/bin/Debug/net8.0/Objets-Models.pdb
+/home/faragon/Desktop/Repos/Objets-Models/obj/Debug/net8.0/Objets-Models.dll
+/home/faragon/Desktop/Repos/Objets-Models/obj/Debug/net8.0/refint/Objets-Models.dll
+/home/faragon/Desktop/Repos/Objets-Models/obj/Debug/net8.0/Objets-Models.pdb
+/home/faragon/Desktop/Repos/Objets-Models/obj/Debug/net8.0/Objets-Models.genruntimeconfig.cache
+/home/faragon/Desktop/Repos/Objets-Models/obj/Debug/net8.0/ref/Objets-Models.dll

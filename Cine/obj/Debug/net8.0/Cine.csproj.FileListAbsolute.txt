@@ -1,0 +1,14 @@
+/home/faragon/Desktop/C-Sharp/Cine/bin/Debug/net8.0/Cine
+/home/faragon/Desktop/C-Sharp/Cine/bin/Debug/net8.0/Cine.deps.json
+/home/faragon/Desktop/C-Sharp/Cine/bin/Debug/net8.0/Cine.runtimeconfig.json
+/home/faragon/Desktop/C-Sharp/Cine/bin/Debug/net8.0/Cine.dll
+/home/faragon/Desktop/C-Sharp/Cine/bin/Debug/net8.0/Cine.pdb
+/home/faragon/Desktop/C-Sharp/Cine/obj/Debug/net8.0/Cine.GeneratedMSBuildEditorConfig.editorconfig
+/home/faragon/Desktop/C-Sharp/Cine/obj/Debug/net8.0/Cine.AssemblyInfoInputs.cache
+/home/faragon/Desktop/C-Sharp/Cine/obj/Debug/net8.0/Cine.AssemblyInfo.cs
+/home/faragon/Desktop/C-Sharp/Cine/obj/Debug/net8.0/Cine.csproj.CoreCompileInputs.cache
+/home/faragon/Desktop/C-Sharp/Cine/obj/Debug/net8.0/Cine.dll
+/home/faragon/Desktop/C-Sharp/Cine/obj/Debug/net8.0/refint/Cine.dll
+/home/faragon/Desktop/C-Sharp/Cine/obj/Debug/net8.0/Cine.pdb
+/home/faragon/Desktop/C-Sharp/Cine/obj/Debug/net8.0/Cine.genruntimeconfig.cache
+/home/faragon/Desktop/C-Sharp/Cine/obj/Debug/net8.0/ref/Cine.dll

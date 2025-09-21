@@ -1,0 +1,14 @@
+/home/faragon/Desktop/C-Sharp/ClassDinamic/bin/Debug/net8.0/ClassDinamic
+/home/faragon/Desktop/C-Sharp/ClassDinamic/bin/Debug/net8.0/ClassDinamic.deps.json
+/home/faragon/Desktop/C-Sharp/ClassDinamic/bin/Debug/net8.0/ClassDinamic.runtimeconfig.json
+/home/faragon/Desktop/C-Sharp/ClassDinamic/bin/Debug/net8.0/ClassDinamic.dll
+/home/faragon/Desktop/C-Sharp/ClassDinamic/bin/Debug/net8.0/ClassDinamic.pdb
+/home/faragon/Desktop/C-Sharp/ClassDinamic/obj/Debug/net8.0/ClassDinamic.GeneratedMSBuildEditorConfig.editorconfig
+/home/faragon/Desktop/C-Sharp/ClassDinamic/obj/Debug/net8.0/ClassDinamic.AssemblyInfoInputs.cache
+/home/faragon/Desktop/C-Sharp/ClassDinamic/obj/Debug/net8.0/ClassDinamic.AssemblyInfo.cs
+/home/faragon/Desktop/C-Sharp/ClassDinamic/obj/Debug/net8.0/ClassDinamic.csproj.CoreCompileInputs.cache
+/home/faragon/Desktop/C-Sharp/ClassDinamic/obj/Debug/net8.0/ClassDinamic.dll
+/home/faragon/Desktop/C-Sharp/ClassDinamic/obj/Debug/net8.0/refint/ClassDinamic.dll
+/home/faragon/Desktop/C-Sharp/ClassDinamic/obj/Debug/net8.0/ClassDinamic.pdb
+/home/faragon/Desktop/C-Sharp/ClassDinamic/obj/Debug/net8.0/ClassDinamic.genruntimeconfig.cache
+/home/faragon/Desktop/C-Sharp/ClassDinamic/obj/Debug/net8.0/ref/ClassDinamic.dll
