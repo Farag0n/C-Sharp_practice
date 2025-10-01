@@ -1,4 +1,0 @@
-/home/faragon/Desktop/TallerLinQ/obj/Debug/net8.0/TallerLinQ.GeneratedMSBuildEditorConfig.editorconfig
-/home/faragon/Desktop/TallerLinQ/obj/Debug/net8.0/TallerLinQ.AssemblyInfoInputs.cache
-/home/faragon/Desktop/TallerLinQ/obj/Debug/net8.0/TallerLinQ.AssemblyInfo.cs
-/home/faragon/Desktop/TallerLinQ/obj/Debug/net8.0/TallerLinQ.csproj.CoreCompileInputs.cache
