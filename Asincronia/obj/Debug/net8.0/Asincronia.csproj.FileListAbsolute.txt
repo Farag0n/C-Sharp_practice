@@ -1,0 +1,15 @@
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/bin/Debug/net8.0/Asincronia
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/bin/Debug/net8.0/Asincronia.deps.json
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/bin/Debug/net8.0/Asincronia.runtimeconfig.json
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/bin/Debug/net8.0/Asincronia.dll
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/bin/Debug/net8.0/Asincronia.pdb
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/Asincronia.GeneratedMSBuildEditorConfig.editorconfig
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/Asincronia.AssemblyInfoInputs.cache
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/Asincronia.AssemblyInfo.cs
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/Asincronia.csproj.CoreCompileInputs.cache
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/Asincronia.sourcelink.json
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/Asincronia.dll
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/refint/Asincronia.dll
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/Asincronia.pdb
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/Asincronia.genruntimeconfig.cache
+/home/faragon/Desktop/Repos/C-Sharp_practice/Asincronia/obj/Debug/net8.0/ref/Asincronia.dll
