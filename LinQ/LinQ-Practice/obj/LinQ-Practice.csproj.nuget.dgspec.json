@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/faragon/Desktop/Repos/C-Sharp_practice/Datos-Metodos/Tipos-Datos/Tipos-Datos.csproj": {}
+    "/home/faragon/Desktop/Repos/C-Sharp_practice/LinQ/LinQ-Practice/LinQ-Practice.csproj": {}
   },
   "projects": {
-    "/home/faragon/Desktop/Repos/C-Sharp_practice/Datos-Metodos/Tipos-Datos/Tipos-Datos.csproj": {
+    "/home/faragon/Desktop/Repos/C-Sharp_practice/LinQ/LinQ-Practice/LinQ-Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/faragon/Desktop/Repos/C-Sharp_practice/Datos-Metodos/Tipos-Datos/Tipos-Datos.csproj",
-        "projectName": "Tipos-Datos",
-        "projectPath": "/home/faragon/Desktop/Repos/C-Sharp_practice/Datos-Metodos/Tipos-Datos/Tipos-Datos.csproj",
+        "projectUniqueName": "/home/faragon/Desktop/Repos/C-Sharp_practice/LinQ/LinQ-Practice/LinQ-Practice.csproj",
+        "projectName": "LinQ-Practice",
+        "projectPath": "/home/faragon/Desktop/Repos/C-Sharp_practice/LinQ/LinQ-Practice/LinQ-Practice.csproj",
         "packagesPath": "/home/faragon/.nuget/packages/",
-        "outputPath": "/home/faragon/Desktop/Repos/C-Sharp_practice/Datos-Metodos/Tipos-Datos/obj/",
+        "outputPath": "/home/faragon/Desktop/Repos/C-Sharp_practice/LinQ/LinQ-Practice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/faragon/.nuget/NuGet/NuGet.Config"
