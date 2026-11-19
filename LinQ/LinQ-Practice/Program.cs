@@ -7,7 +7,7 @@ class Producto
 {
     // Propiedades automáticas: getter y setter público.
     // 'decimal' es recomendable para dinero porque evita errores de precisión de punto flotante.
-    public string Nombre { get; set; }
+    public string Nombre { get; set; } = string.Empty;
     public decimal Precio { get; set; }
 }
 
@@ -50,7 +50,7 @@ class Program
         // Invocamos el método de la clase LinqDemo
         LinQ2.LinqDemo.EjecutarEjemplo();
             
-        Console.WriteLine("\nPresione cualquier tecla para salir...");
-        Console.ReadKey();
+        Console.WriteLine("\nPresione Enter para salir...");
+        Console.ReadLine();
     }
 }

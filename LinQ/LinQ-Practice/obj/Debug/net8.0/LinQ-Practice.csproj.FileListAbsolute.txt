@@ -1,0 +1,15 @@
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\bin\Debug\net8.0\LinQ-Practice.exe
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\bin\Debug\net8.0\LinQ-Practice.deps.json
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\bin\Debug\net8.0\LinQ-Practice.runtimeconfig.json
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\bin\Debug\net8.0\LinQ-Practice.dll
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\bin\Debug\net8.0\LinQ-Practice.pdb
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\LinQ-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\LinQ-Practice.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\LinQ-Practice.AssemblyInfo.cs
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\LinQ-Practice.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\LinQ-Practice.sourcelink.json
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\LinQ-Practice.dll
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\refint\LinQ-Practice.dll
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\LinQ-Practice.pdb
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\LinQ-Practice.genruntimeconfig.cache
+C:\Users\migue\Desktop\repos\C-Sharp_practice\LinQ\LinQ-Practice\obj\Debug\net8.0\ref\LinQ-Practice.dll

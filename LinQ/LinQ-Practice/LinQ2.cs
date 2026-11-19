@@ -8,9 +8,9 @@ public class LinQ2
 {
     public class Persona
     {
-        public string Nombre { get; set; }
+        public string Nombre { get; set; } = string.Empty;
         public int Edad { get; set; }
-        public string Ciudad { get; set; }
+        public string Ciudad { get; set; } = string.Empty;
     }
 
     public class LinqDemo
